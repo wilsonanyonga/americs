@@ -1,0 +1,2 @@
+# americs
+ Americs Coin

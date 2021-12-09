@@ -1,0 +1,9 @@
+Building Americs
+
+See doc/readme-qt.rst for instructions on building Americs-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Americs.
+
+See doc/build-*.txt for instructions on building americsd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Americs.
